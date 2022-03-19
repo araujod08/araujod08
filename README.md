@@ -30,12 +30,10 @@ Sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   
 
 ## Meus dados no Github
-
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&show_icons=true&theme=tokyonight)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&show_icons=true&theme=dark)
 [![araujod08](https://github-readme-stats.vercel.app/api/top-langs/?username=araujod08&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/araujod08/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujod08&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/araujod08/araujod08/blob/output/github-contribution-grid-snake.svg)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujod08&layout=compact&theme=dark)]
+
+
+
