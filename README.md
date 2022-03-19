@@ -18,7 +18,7 @@ Olá, eu sou o Davi! 🇧🇷
 </h3>
 
 ```
-estudante da labenu estou iniciando munha carreira como programador, 
+estudante da labenu estou iniciando minha carreira como programador. 
 Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
 ## Tecnologias que estou estudando atualmente 💻
