@@ -32,6 +32,9 @@ Sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ## Meus dados no Github
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&show_icons=true&theme=dark)
+<img height="180em" src="http://github-readme-stats-two-rosy.vercel.app/api/top-langs/?username=araujod08&layout=compact&langs_count=10&theme=aura_dark"/>
+</div>
+
 ![Snake animation](https://github.com/araujod08/araujod08/blob/output/github-contribution-grid-snake.svg)
 
 
