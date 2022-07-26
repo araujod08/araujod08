@@ -26,12 +26,12 @@ Sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - HTML
   - CSS
   - JavaScript
-  -TypeScript 
+  - TypeScript 
   - React
-  -CSS  
-  -Node  
-  -MySQL  
-  -AWS
+  - CSS  
+  - Node  
+  - MySQL  
+  - AWS
 
 ## Meus dados no Github
 
