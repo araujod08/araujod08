@@ -34,7 +34,8 @@ Sou fascinado por computação desde criança e atualmente tenho me dedicado a m
   - AWS
 
 ## Meus dados no Github
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&show_icons=true&theme=midnight-purple)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujod08&show_icons=true&theme=midnight-purple)
 <img height="180em" src="http://github-readme-stats-two-rosy.vercel.app/api/top-langs/?username=araujod08&layout=compact&langs_count=10&theme=midnight-purple"/>
 </div>
