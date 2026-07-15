@@ -117,8 +117,8 @@ Atualmente estudando Django, Vue 3 e Docker para expandir minhas habilidades com
 ---
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/araujod08/araujod08/output/github-contribution-grid-snake-dark.svg"
-    alt="Snake animation"
+  <img 
+    src="https://raw.githubusercontent.com/araujod08/araujod08/output/github-contribution-grid-snake-dark.svg" 
+    alt="Snake animation" 
   />
 </p>
